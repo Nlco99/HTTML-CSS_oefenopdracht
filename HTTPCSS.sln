@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTTPCSS", "HTTPCSS\HTTPCSS.csproj", "{AC59598C-01B5-4684-B127-8FCDC7F8CABF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC59598C-01B5-4684-B127-8FCDC7F8CABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC59598C-01B5-4684-B127-8FCDC7F8CABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC59598C-01B5-4684-B127-8FCDC7F8CABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC59598C-01B5-4684-B127-8FCDC7F8CABF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {116F19FD-CA41-4E35-86D1-1F71EC9D1751}
+	EndGlobalSection
+EndGlobal
